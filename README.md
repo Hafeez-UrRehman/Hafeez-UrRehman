@@ -1,8 +1,7 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Hafeez-Ur-Rehman</h1>
 <h3 align="center">Full Stack AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src= ![image](https://github.com/user-attachments/assets/b8ebeae7-52cf-4c31-b8ae-c4e169b7a984)>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/88458118-abd3-45c8-b0a9-b1905aeec4e1" >
 
 - 🔭 I’m currently working on **AI/Data Science**
 
