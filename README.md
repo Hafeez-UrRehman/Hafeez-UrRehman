@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hafeez-Ur-Rehman</h1>
 <h3 align="center">Full Stack AI Engineer</h3>
 
-<img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F471892867195095521%2F&psig=AOvVaw1XFIfE0kJPqVVsEs954ziL&ust=1724946577840000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiz9eOEmIgDFQAAAAAdAAAAABAS>
+<img align="right" alt="coding" width="400" src= ![image](https://github.com/user-attachments/assets/b8ebeae7-52cf-4c31-b8ae-c4e169b7a984)>
 
 - 🔭 I’m currently working on **AI/Data Science**
 
