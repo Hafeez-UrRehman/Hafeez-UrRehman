@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **AI/Data Science**
 
-- 🌱 I’m currently learning **LLMs Quantization**
+- 🌱 I’m currently learning **Exploring Lasest inventions in AI and actively working on LLMs**
 
-- 💬 Ask me about **anything related to AI/Data Science**
+- 💬 Ask me about **anything related to AI/ML/Data Science**
 
 - 📫 How to reach me **hafeezur588@gmail.com**
 
