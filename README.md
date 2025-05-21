@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hafeez-UrRehman&label=Profile%20views&color=0e75b6&style=flat" alt="Hafeez-UrRehman" /> </p>
 
-- 🔭 I’m currently working on **AI/ML/Data Science**
+- 🔭 I’m currently working on **AI/ML/Data Science/GenAI/Agentic-AI/Big-Data/Data-Engineering/Data-Analytics**
 
 - 🌱 I’m currently learning **Exploring Lasest inventions in AI and actively working on LLMs and GenAI**
 
