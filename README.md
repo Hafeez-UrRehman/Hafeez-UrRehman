@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI/ML/Data Science/GenAI/Agentic-AI/Big-Data/Data-Engineering/Data-Analytics**
 
-- 🌱 I’m currently learning **Exploring Lasest inventions in AI and actively working on LLMs and GenAI**
+- 🌱 I’m currently exploring the latest advancements in **AI and Data Science, with a strong focus on LLMs, Generative AI, Agentic AI, and their applications across Big Data, Data Engineering, and Analytics**.
 
 - 💬 Ask me about **Anything related to AI/ML/Data Science**
 
